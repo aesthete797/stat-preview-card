@@ -36,7 +36,7 @@ Users should be able to:
 - Flexbox
 
 ### What I learned
-- A major responsiveness challenge for me, one fix created another issue and so on, tried several things, and about how images could affect layout. also learned how to use filter. 
+- A major responsiveness challenge for me, one fix created another issue and so on, tried several things, and i learned about how images could affect layout. also learned how to use filter. 
 
 ### Useful resources
 
