@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -27,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub)
-- Live Site URL: [Vercel](https://product-preview-snowy.vercel.app/)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/responsive-stat-preview-card-component--n58RRNBK1)
+- Live Site URL: [Vercel](https://stat-preview-card-five.vercel.app/)
 
 ### Built with
 
@@ -42,10 +41,6 @@ Users should be able to:
 ### Useful resources
 
 - [Filter Generator](https://www.cssfiltergenerator.com/) - I used this to create a filter for the .imgcontainer.
-
-### Continued development
-
-Still Need more practice on responsiveness.
 
 
 ## Author
